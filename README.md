@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishujangra&label=Profile%20views&color=0e75b6&style=flat" alt="nishujangra" /> </p>
 
+- 🌱 I’m currently learning **Next.js and Backend Development**
+
 - 📫 How to reach me **ndjangra1027@gmail.com**
 
 - ⚡ Fun fact **After binge-watching Harry Potter movies, I couldn't resist practicing wand movements myself.**
