@@ -17,7 +17,7 @@
 
 ### 🌍 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/nishujangra27/)  
-- 🌐 [Portfolio (Coming Soon)](#)
+- 🌐 [Portfolio Website](https://nishujangra27.netlify.app/)
 - 📧 [Email](mailto:ndjangra1027@gmail.com)
 
 ---
