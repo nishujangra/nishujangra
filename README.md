@@ -29,16 +29,21 @@
 ---
 
 ### ⚡ Tech Stack
-| Backend | Frontend | Database |
-|---------|---------|----------|
-| Golang, Python, Node.js | React (TypeScript), TailwindCSS | PostgreSQL, MongoDB, Redis |
+| Category                | Technologies/Tools                                      |
+|-------------------------|--------------------------------------------------------|
+| **Programming Languages** | Go, C++, JavaScript, Python, TypeScript               |
+| **Backend**             | Node.js, Express.js, Echo Framework, REST APIs, Cron Jobs |
+| **Frontend**            | React, Tailwind CSS                                    |
+| **Databases**           | PostgreSQL, MongoDB, MySQL, Redis                     |
+| **Tools & Platforms**   | Git, Postman, VS Code, Ubuntu                         |
+| **Others**              | DSA (600+ problems), OOP, DBMS, OS, Networking        |
 
 ---
 
 ### 🏆 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishujangra&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishujangra&langs_count=7)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishujangra&layout=pie&langs_count=8&theme=cobalt)
 
 ---
 
