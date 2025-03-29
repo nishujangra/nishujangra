@@ -43,7 +43,7 @@
 ### 🏆 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishujangra&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishujangra&layout=pie&langs_count=8&theme=cobalt)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishujangra&layout=pie&langs_count=8&theme=radical)
 
 ---
 
