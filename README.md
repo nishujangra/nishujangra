@@ -1,6 +1,6 @@
 # Hi there, I'm Nishant 👋
 
-🚀 **Backend Developer**
+🚀 **Backend Developer** | **Self-Taught Developer**
 
 ---
 
