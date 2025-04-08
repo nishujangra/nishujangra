@@ -22,12 +22,6 @@
 
 ---
 
-### 🔥 Projects & Contributions
-- **AllSportsDB Golang SDK** – Open-source API integration for sports data.
-- **Go Book Management System** – Role-based access control for books management.
-
----
-
 ### ⚡ Tech Stack
 | Category                | Technologies/Tools                                      |
 |-------------------------|--------------------------------------------------------|
