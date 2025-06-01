@@ -47,9 +47,8 @@
 ### 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishujangra&show_icons=true&theme=radical" alt="Nishant's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishujangra&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nishujangra&show_icons=true&theme=radical" alt="Nishant's GitHub Stats" style="display: inline-block; margin-right: 20px; vertical-align: top;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishujangra&layout=compact&theme=radical&langs_count=8" alt="Top Languages" style="display: inline-block; vertical-align: top;" />
 </p>
 
 ---
