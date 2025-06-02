@@ -30,7 +30,7 @@
 |-------------------------|------------------------------------------------------------------------------------|
 | **Languages**           | Go, Perl, C++, Python, JavaScript, TypeScript                                     |
 | **Backend**             | Echo (Go), Express.js (Node.js), REST APIs, OAuth, JWT, RBAC                      |
-| **Databases**           | PostgreSQL, MongoDB, CouchDB, MySQL                                               |
+| **Databases & Caching**           | PostgreSQL, MongoDB, CouchDB, MySQL, Redis                                               |
 | **Systems & Infra**     | Ubuntu, Debian, Devuan, Shell scripting, iptables, Shorewall, dnsmasq, Cron Jobs |
 | **Tools & DevOps**      | Git, GitHub, Bitbucket, Postman, VS Code                                          |
 | **CS Core**             | DSA (600+ problems), OS, DBMS, Networking, OOP                                    |
