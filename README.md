@@ -1,6 +1,6 @@
 # Hi there, I'm Nishant 👋
 
-🚀 **Backend & Systems Engineer** | **Golang, Linux, Networking** | **Open Source Contributor**
+🚀 **Go Developer** | **Linux Systems** | **Open Source Contributor**
 
 ---
 
@@ -9,46 +9,50 @@
 </p>
 
 ### 👨‍💻 About Me
-- 💡 Passionate about building scalable and secure backend infrastructure.
-- 🧱 Experienced with **firewalls**, **network routing**, and **iptables/Shorewall**.
-- ⚙️ Contributor to open source projects including **QuickBooks Go SDK**, **RBAC book manager**, and a **Perl firewall UI**.
-- 📝 Writing blogs for the **Devuan Linux** community and exploring system-level engineering.
-- 🧠 Solved **600+ DSA problems** on Leetcode to sharpen algorithmic thinking.
+
+- 🔧 Backend developer with a strong focus on **system-level engineering**, security, and infrastructure.
+- 🛡️ Experienced in working with **firewalls**, **networking**, and **iptables/Shorewall automation**.
+- 🧑‍💻 Contributor to open source projects like the **QuickBooks Go SDK**, **RBAC-based systems**, and **firewall automation UIs**.
+- 🧵 Passionate about building scalable APIs, backend tooling, and Linux-based distributed systems.
+- 🧠 Solved **600+ DSA problems** on LeetCode to strengthen my problem-solving and algorithmic skills.
+- ✍️ Writing **technical blogs** for the Devuan Linux community and documenting low-level backend concepts.
 
 ---
 
 ### 🌍 Connect With Me
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/nishujangra27/)
-- 🌐 [Portfolio Website](https://nishujangra27.netlify.app/)
+- 🌐 [Portfolio](https://nishujangra27.netlify.app/)
 - 📧 [Email](mailto:ndjangra1027@gmail.com)
 
 ---
 
-### ⚡ Tech Stack
+### ⚙️ Tech Stack
 
-| Category                | Technologies/Tools                                                                 |
-|-------------------------|------------------------------------------------------------------------------------|
-| **Languages**           | Go, Perl, C++, Python, JavaScript, TypeScript                                     |
-| **Backend**             | Echo (Go), Express.js (Node.js), REST APIs, OAuth, JWT, RBAC                      |
-| **Databases & Caching**           | PostgreSQL, MongoDB, CouchDB, MySQL, Redis                                               |
-| **Systems & Infra**     | Ubuntu, Debian, Devuan, Shell scripting, iptables, Shorewall, dnsmasq, Cron Jobs |
-| **Tools & DevOps**      | Git, GitHub, Bitbucket, Postman, VS Code                                          |
-| **CS Core**             | DSA (600+ problems), OS, DBMS, Networking, OOP                                    |
-
----
-
-### 📂 Featured Projects
-- 🔐 [**Firewall Management UI**](https://bitbucket.org/tirveni/fireshorewall/src/master/) — Perl-based web tool to manage iptables/Shorewall with diagnostics & RBAC.
-- 💳 [**QuickBooks Payments Go SDK**](https://github.com/nishujangra/intuit-go) — Open-source SDK for card management, secure payments, OAuth 2.0.
-- 📚 [**Eagleowl**](https://bitbucket.org/tirveni/eagleowl/src/master/) — Role-based book system using Go, PostgreSQL, Google OAuth.
+| Category             | Tools & Technologies                                                                        |
+|----------------------|----------------------------------------------------------------------------------------------|
+| **Languages**        | Go, Perl, C++, Python, JavaScript, TypeScript                                                |
+| **Backend**          | Echo (Go), Express.js (Node.js), REST APIs, OAuth 2.0, JWT, RBAC                            |
+| **Databases**        | PostgreSQL, MongoDB, CouchDB, MySQL, Redis                                                   |
+| **Systems & Infra**  | Linux (Debian, Devuan), iptables, Shorewall, dnsmasq, Cron Jobs, Shell Scripting            |
+| **Dev Tools**        | Git, GitHub, Bitbucket, Postman, VS Code, VirtualBox                                        |
+| **CS Fundamentals**  | Data Structures & Algorithms (600+ problems), OS, DBMS, Networking, OOP                      |
 
 ---
 
-### 🏆 GitHub Stats
+### 🚀 Featured Projects
+
+- 🔐 [**Firewall Management UI**](https://bitbucket.org/tirveni/fireshorewall/src/master/) — Perl web UI for Shorewall with CouchDB-backed RBAC and real-time diagnostics.
+- 💳 [**QuickBooks Go SDK**](https://github.com/nishujangra/intuit-go) — Open-source SDK for QuickBooks Payments API with OAuth 2.0 and secure charge handling.
+- 📚 [**Eagleowl**](https://bitbucket.org/tirveni/eagleowl/src/master/) — RBAC-based book management system built with Go, PostgreSQL, and Google OAuth.
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishujangra&show_icons=true&theme=radical" alt="Nishant's GitHub Stats" style="display: inline-block; margin-right: 20px; vertical-align: top;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishujangra&layout=compact&theme=radical&langs_count=8" alt="Top Languages" style="display: inline-block; vertical-align: top;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nishujangra&show_icons=true&theme=radical" alt="Nishant's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishujangra&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
