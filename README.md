@@ -48,6 +48,25 @@
 
 ---
 
+### 📚 Blogs & Guides
+
+- 🔄 [Ansible Lab Setup](https://bitbucket.org/tirveni/devuan/wiki/nishant/Ansible-Lab)
+- 🌐 [Setting Up a Virtual NAT Gateway in VirtualBox](https://bitbucket.org/tirveni/devuan/wiki/nishant/Setting-Up-a-Virtual-Gateway-with-NAT-in-VirtualBox)
+- 🧭 [Local DNS Server with dnsmasq](https://bitbucket.org/tirveni/devuan/wiki/nishant/Setting-Up-a-Local-DNS-Server-Using-dnsmasq)
+- 🔐 [Reading Root-Protected Files with sudo (no password)](https://blog.devops.dev/reading-root-protected-files-with-sudo-no-password-prompt-f70a9bdd8ca7)
+- 💾 [Redis Installation Guide](https://bitbucket.org/tirveni/devuan/wiki/nishant/Redis-Installation)
+- ⚙️ [Redis Cluster Setup](https://bitbucket.org/tirveni/devuan/wiki/nishant/Redis-Cluster)
+- 🚀 [KeyDB Setup](https://bitbucket.org/tirveni/devuan/wiki/nishant/KeyDB-Setup)
+- 🔁 [KeyDB Multi-Master Replication](https://bitbucket.org/tirveni/devuan/wiki/nishant/KeyDB-Multi-Master)
+- 🌍 [Install Apache CouchDB on Debian](https://bitbucket.org/tirveni/devuan/wiki/nishant/Install-Apache-CouchDB-on-Debian)
+- 🧰 [SAM Proxy Setup](https://bitbucket.org/tirveni/devuan/wiki/nishant/SAM-Proxy)
+- 🧠 [Sudoers Deep Dive](https://bitbucket.org/tirveni/devuan/wiki/nishant/Sudoers)
+- 🧵 [C++ Essentials](https://bitbucket.org/tirveni/devuan/wiki/nishant/C++)
+
+> 📚 See all blogs: [nishujangra27.netlify.app/blogs](https://nishujangra27.netlify.app/blogs)
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
