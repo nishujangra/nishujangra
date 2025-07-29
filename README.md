@@ -16,6 +16,7 @@
 - 🧵 Passionate about building scalable APIs, backend tooling, and Linux-based distributed systems.
 - 🧠 Solved **600+ DSA problems** on LeetCode to strengthen my problem-solving and algorithmic skills.
 - ✍️ Writing **technical blogs** for the Devuan Linux community and documenting low-level backend concepts.
+- Learning Rust
 
 ---
 
@@ -31,7 +32,7 @@
 
 | Category             | Tools & Technologies                                                                        |
 |----------------------|----------------------------------------------------------------------------------------------|
-| **Languages**        | Go, Perl, C++, Python, JavaScript, TypeScript                                                |
+| **Languages**        | Go, Perl, C++, Python, JavaScript, TypeScript, Rust                                         |
 | **Backend**          | Echo (Go), Express.js (Node.js), REST APIs, OAuth 2.0, JWT, RBAC                            |
 | **Databases**        | PostgreSQL, MongoDB, CouchDB, MySQL, Redis                                                   |
 | **Systems & Infra**  | Linux (Debian, Devuan), iptables, Shorewall, dnsmasq, Cron Jobs, Shell Scripting            |
