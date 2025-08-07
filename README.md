@@ -43,27 +43,18 @@
 
 #### 🔐 [Firewall Management UI](https://bitbucket.org/tirveni/fireshorewall/src/master/)
 > Perl • Mojolicious • CouchDB • Shorewall • Linux  
-- Built a web-based firewall control panel with live rule updates, CouchDB-backed auth, and system diagnostics.
-- Integrated tools like `ping`, `traceroute`, and `tcpdump` for live observability across 15–20 node networks.
 
 #### 🦀 [Serac – RBAC Auth in Rust](https://github.com/nishujangra/serac)
-> Rocket.rs • PostgreSQL • JWT • Argon2  
-- Modular JWT + RBAC auth system with secure session handling and async `sqlx` queries.
-- Used in real Rust APIs; minimal dependencies, clean separation of `auth/`, `user/`, and `utils/`.
+> Rocket.rs • PostgreSQL • JWT • Argon2
 
 #### 💳 [QuickBooks Go SDK](https://github.com/nishujangra/intuit-go)
-> Go • REST APIs • OAuth 2.0 • SDK Design  
-- Designed and shipped an idiomatic Go SDK for QuickBooks Payments API with full charge/capture/refund flow.
-- Integrated secure OAuth 2.0, modular HTTP handling, and developer-friendly documentation.
+> Go • REST APIs • OAuth 2.0 • SDK Design
 
 #### 📚 [EagleOwl – RBAC Book Manager](https://bitbucket.org/tirveni/eagleowl/src/master/)
-> Go • Google OAuth • PostgreSQL • Redis  
-- Built a Go web app with RBAC middleware (admin/editor/reader), 20+ protected routes.
-- Implemented async Redis queue for signup emails under 1s latency for 100+ triggered events.
+> Go • Google OAuth • PostgreSQL • Redis
 
 #### ☁️ [Juju Infra Deployment](https://bitbucket.org/tirveni/devuan/wiki/nishant/Juju-Deploy-Nginx-Ubuntu-Server)
 > Juju • LXD • Canonical Tools  
-- Built a service orchestration setup using Juju and LXD containers on Ubuntu/Devuan with full docs and NAT testing lab.
 
 ---
 
@@ -88,14 +79,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nishujangra&show_icons=true&theme=radical" alt="Nishant's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishujangra&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </p>
-
----
-
-### 🧭 Engineering Philosophy
-
-- Solve infra pain points with real tooling
-- Secure by design, not by afterthought
-- Build systems that are observable, debuggable, and documented
 
 ---
 
