@@ -39,16 +39,10 @@
 
 ---
 
-### 📦 Featured Projects
+### 📦 Featured Projects (on Bitbucket)
 
 #### 🔐 [Firewall Management UI](https://bitbucket.org/tirveni/fireshorewall/src/master/)
 > Perl • Mojolicious • CouchDB • Shorewall • Linux  
-
-#### 🦀 [Serac – RBAC Auth in Rust](https://github.com/nishujangra/serac)
-> Rocket.rs • PostgreSQL • JWT • Argon2
-
-#### 💳 [QuickBooks Go SDK](https://github.com/nishujangra/intuit-go)
-> Go • REST APIs • OAuth 2.0 • SDK Design
 
 #### 📚 [EagleOwl – RBAC Book Manager](https://bitbucket.org/tirveni/eagleowl/src/master/)
 > Go • Google OAuth • PostgreSQL • Redis
@@ -62,7 +56,7 @@
 
 > See full list: [nishujangra27.netlify.app/blogs](https://nishujangra27.netlify.app/blogs)
 
-- 🔐 [JWT Auth in Rocket.rs (Rust)](https://nishujangra27.hashnode.dev/implementing-jwt-authentication-in-rocketrs) — *6m+ avg read time*
+- 🔐 [JWT Auth in Rocket.rs (Rust)](https://nishujangra27.hashnode.dev/implementing-jwt-authentication-in-rocketrs)
 - 🌐 [NAT Gateway in VirtualBox](https://bitbucket.org/tirveni/devuan/wiki/nishant/Setting-Up-a-Virtual-Gateway-with-NAT-in-VirtualBox)
 - 🗌 [Local DNS with dnsmasq](https://bitbucket.org/tirveni/devuan/wiki/nishant/Setting-Up-a-Local-DNS-Server-Using-dnsmasq)
 - ♻️ [Ansible Lab Setup](https://bitbucket.org/tirveni/devuan/wiki/nishant/Ansible-Lab)
