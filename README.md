@@ -17,22 +17,13 @@
 
 ---
 
-### 🚀 Featured Projects  
+### 🚀 OSS Projects(on Bitbucket)  
 
-#### 🔐 [Serac](https://github.com/nishujangra/serac) – Rust RBAC Auth System  
-JWT auth in Rust with Argon2 password hashing, modular architecture, and async Postgres (`sqlx`).  
-
-#### ⚖️ [BalancerX](https://github.com/nishujangra/balancerx) – Lightweight Go Load Balancer  
-Supports HTTP/TCP, round-robin + random strategy, health checks, and config-driven design. Benchmarked at ~9.7k req/sec.  
-
-#### 📦 [debforge](https://github.com/nishujangra/debforge) – .deb Package Builder  
-A CLI tool to forge `.deb` packages from binaries quickly. Automates control file, structure, and scripts.  
+#### 🔥 [Firewall Management UI](https://bitbucket.org/tirveni/fireshorewall/src/master/)  
+Perl Mojolicious web app for Shorewall — secure auth, live firewall controls, routing view, and infra observability tools.
 
 #### 📚 [EagleOwl](https://bitbucket.org/tirveni/eagleowl/src/master/) – RBAC Book Manager  
 Full-stack Go web app with Google OAuth, JWT auth, RBAC middleware, and Redis-backed async emails.  
-
-#### 🔥 [Firewall Management UI](https://bitbucket.org/tirveni/fireshorewall/src/master/)  
-Perl Mojolicious web app for Shorewall — secure auth, live firewall controls, routing view, and infra observability tools.  
 
 ---
 
@@ -61,7 +52,7 @@ Perl Mojolicious web app for Shorewall — secure auth, live firewall controls, 
 
 ---
 
-### Github Trophies
+### 🏆 Github Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nishujangra&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
