@@ -61,6 +61,12 @@ Perl Mojolicious web app for Shorewall — secure auth, live firewall controls, 
 
 ---
 
+### Github Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nishujangra&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 📊 GitHub Stats  
 
 <p align="center">
