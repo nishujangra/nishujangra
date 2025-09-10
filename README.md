@@ -1,10 +1,6 @@
 # Hi, I'm Nishant 👋  
 ### Backend Engineer (Go) | Systems & Infra Developer | Open Source Builder  
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nishujangra&label=Profile%20views&color=0e75b6&style=flat" alt="nishujangra" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me  
