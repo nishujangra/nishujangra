@@ -1,5 +1,5 @@
 # Hi, I'm Nishant 👋  
-### Backend Engineer (Go) | Systems & Infra Developer | Open Source Builder  
+### Backend Engineer (Go) | Systems & Infra Developer | Open Source
 
 ---
 
@@ -37,14 +37,7 @@ Full-stack Go web app with Google OAuth, JWT auth, RBAC middleware, and Redis-ba
 
 ### 📝 Blogs & Technical Writing  
 
-📖 More here → [nishujangra27.netlify.app/blogs](https://nishujangra27.netlify.app/blogs)  
-
-| Topic                | Blog |
-|----------------------|------|
-| ☁️ Orchestration     | [Juju: PostgreSQL Clustering & Replication](https://bitbucket.org/tirveni/devuan/wiki/nishant/Juju-PostgreSQL-Clustering) |
-| 🌐 Networking        | [Setting Up a Virtual Gateway with NAT in VirtualBox](https://bitbucket.org/tirveni/devuan/wiki/nishant/Setting-Up-a-Virtual-Gateway-with-NAT-in-VirtualBox) |
-| 💾 Redis             | [Redis Cluster: Setup & Concepts](https://bitbucket.org/tirveni/devuan/wiki/nishant/Redis-Cluster) |
-| 🔀 Keydb             | [KeyDB Multi-Master Setup on Debian](https://bitbucket.org/tirveni/devuan/wiki/nishant/KeyDB-Multi-Master) |
+📖 Blogs are listed here → [nishujangra27.netlify.app/blogs](https://nishujangra27.netlify.app/blogs)  
 
 ---
 
@@ -68,7 +61,8 @@ Full-stack Go web app with Google OAuth, JWT auth, RBAC middleware, and Redis-ba
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nishujangra27/)  
 - 🌍 [Portfolio](https://nishujangra27.netlify.app/)  
-- 📧 [Email](mailto:ndjangra1027@gmail.com)  
+- 📧 [Email](mailto:ndjangra1027@gmail.com)
+- [X](https://x.com/nishujangra27)
 
 ---
 
