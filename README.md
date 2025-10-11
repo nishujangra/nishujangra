@@ -9,7 +9,7 @@
 - ☁️ I work with **Go, Rust, Linux, firewalls, and orchestration tools (Juju, iptables, dnsmasq)**.  
 - 🧵 I’ve built projects like **Serac (Rust RBAC Auth)**, **BalancerX (Go load balancer)**, **debforge (.deb builder)**, and **EagleOwl (RBAC Book Manager)**.  
 - ✍️ I love writing deep-dive guides on infra + backend — check out my [blogs](https://nishujangra27.netlify.app/blogs).  
-- 🦀 Currently leveling up in **Rust** and building **distributed infra tooling in Go**.  
+- 🦀 Currently leveling up in **Rust**.
 
 ---
 
