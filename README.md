@@ -11,9 +11,9 @@ Blog: [https://nishujangra27.netlify.app/blogs](https://nishujangra27.netlify.ap
 #### Areas of Interest
 
 * Backend systems (Go, Rust, REST APIs, Auth, Services)
-* Linux networking (iptables, dnsmasq, Shorewall)
+* Linux networking (iptables/nftables, dnsmasq, Shorewall, DHCP Server)
 * Infrastructure automation (Juju, Shell scripting, Cron jobs)
-* Virtualization and NAT (VirtualBox, DNS, DMZ setups)
+* Virtualization and NAT (VirtualBox, DNS setups)
 * Databases (PostgreSQL, Redis, KeyDB, CouchDB)
 * Systems security, deployment, and maintenance
 
