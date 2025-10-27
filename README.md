@@ -20,7 +20,6 @@ Blog: [https://nishujangra27.netlify.app/blogs](https://nishujangra27.netlify.ap
 
 #### Projects
 
-* **Serac** – RBAC authentication service in Rust
 * **BalancerX** – Load balancer written in Go with routing and failover
 * **[EagleOwl](https://bitbucket.org/tirveni/eagleowl/src/master/)** – Go web application with JWT, Google OAuth, and Redis queue
 * **[Firewall Management UI](https://bitbucket.org/tirveni/fireshorewall/src/master/)** – Web interface for managing Shorewall firewalls
