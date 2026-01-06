@@ -39,7 +39,7 @@ Blog: [https://nishujangra.dev/blogs](https://nishujangra.dev/blogs)
 
 #### Connect
 
-* Portfolio: [https://nishujangra27.netlify.app](https://nishujangra27.netlify.app)
+* Portfolio: [https://nishujangra.dev](https://nishujangra.dev)
 * LinkedIn: [https://linkedin.com/in/nishujangra27](https://linkedin.com/in/nishujangra27)
 * X (Twitter): [https://x.com/nishujangra27](https://x.com/nishujangra27)
 * Email: `ndjangra1027 [at] gmail.com`
