@@ -6,7 +6,7 @@ I build secure and efficient backend systems using Go, Rust, and Linux.
 Most of my work focuses on networking, infrastructure, orchestration, and backend automation.
 I also enjoy writing about backend design, Linux internals, and system administration.
 
-Blog: [https://nishujangra27.netlify.app/blogs](https://nishujangra27.netlify.app/blogs)
+Blog: [https://nishujangra.dev/blogs](https://nishujangra.dev/blogs)
 
 #### Areas of Interest
 
