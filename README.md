@@ -20,6 +20,7 @@ Blog: [https://nishujangra.dev/blogs](https://nishujangra.dev/blogs)
 
 #### Projects
 
+* **Spooky** - Rust-native HTTP/3 (QUIC) load balancer bridging to HTTP/2 upstreams. It’s still experimental
 * **BalancerX** – Load balancer written in Go with routing and failover
 * **[EagleOwl](https://bitbucket.org/tirveni/eagleowl/src/master/)** – Go web application with JWT, Google OAuth, and Redis queue
 * **[Firewall Management UI](https://bitbucket.org/tirveni/fireshorewall/src/master/)** – Web interface for managing Shorewall firewalls
