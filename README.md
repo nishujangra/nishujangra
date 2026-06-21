@@ -1,4 +1,4 @@
-# Nishant Jangra
+# Nishant
 
 **eBPF/Kernel Engineer · Systems & Infrastructure · Open Source**
 
