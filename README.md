@@ -1,47 +1,47 @@
-### Hi, I'm Nishant
+# Nishant Jangra
 
-**Backend Engineer | Systems & Infrastructure Developer | Open Source Enthusiast**
+**eBPF/Kernel Engineer · Systems & Infrastructure · Open Source**
 
-I build secure and efficient backend systems using Go, Rust, and Linux.
-Most of my work focuses on networking, infrastructure, orchestration, and backend automation.
-I also enjoy writing about backend design, Linux internals, and system administration.
+I build things that live in the parts of the stack most engineers don't touch — kernel networking,
+QUIC/HTTP3 edge proxies, eBPF-based packet filtering. When something is slow, broken, or under
+attack, I want to understand exactly why and fix it at the right layer.
 
-Blog: [https://nishujangra.dev/blogs](https://nishujangra.dev/blogs)
+---
 
-#### Areas of Interest
+## Projects
 
-* Backend systems (Go, Rust, REST APIs, Auth, Services)
-* Linux networking (iptables/nftables, dnsmasq, Shorewall, DHCP Server)
-* Infrastructure automation (Juju, Shell scripting, Cron jobs)
-* Virtualization and NAT (VirtualBox, DNS setups)
-* Databases (PostgreSQL, Redis, KeyDB, CouchDB)
-* Systems security, deployment, and maintenance
+| Project | Stack | Description |
+|---|---|---|
+| [Spooky](https://github.com/nishujangra/spooky) | Rust · HTTP/3 · QUIC | HTTP/3→HTTP/2 edge proxy · 21K req/s · multi-level overload protection |
+| [vex](https://github.com/nishujangra/vex) | Rust · HTTP/3 | HTTP/3 load testing tool with latency aggregation |
+| [BalancerX](https://github.com/nishujangra/balancerx) | Go · HTTP/TCP | Load balancer · round-robin/random · ~12K req/s across 3 backends |
+| [EagleOwl](https://bitbucket.org/tirveni/eagleowl/src/master/) | Go · PostgreSQL · Redis | Full-stack web app · Google OAuth · JWT · RBAC · async mail queue |
+| [FireShorewall](https://bitbucket.org/tirveni/fireshorewall/src/master/) | Perl · Mojolicious · CouchDB | Firewall management UI for Shorewall with live diagnostics |
+| [debforge](https://github.com/nishujangra/debforge) | Bash · dpkg-deb | CLI tool to forge .deb packages from binaries |
 
+---
 
-#### Projects
+## Stack
 
-* **Spooky** - Rust-native HTTP/3 (QUIC) load balancer bridging to HTTP/2 upstreams. It’s still experimental
-* **Vex** - Experimental HTTP/3 load testing tool.
-* **BalancerX** – Load balancer written in Go with routing and failover
-* **[EagleOwl](https://bitbucket.org/tirveni/eagleowl/src/master/)** – Go web application with JWT, Google OAuth, and Redis queue
-* **[Firewall Management UI](https://bitbucket.org/tirveni/fireshorewall/src/master/)** – Web interface for managing Shorewall firewalls
+```
+Core          Go · Rust · C (eBPF/XDP)
+Networking    Linux · eBPF/XDP · iptables/nftables · WireGuard · dnsmasq · Shorewall
+Backend       REST APIs · RBAC · OAuth 2.0 · JWT · ETL pipelines · goroutines
+Databases     PostgreSQL · Redis · CouchDB · KeyDB
+Infra         Docker · Hetzner · Ansible · Nginx · VirtualBox · Juju
+Familiar      Python · C++ · TypeScript · Perl · Bash
+```
 
+---
 
-#### Tech Stack
+## Writing
 
-| Category                    | Technologies                              |
-| --------------------------- | ----------------------------------------- |
-| Languages                   | Go, Rust, C++, Python, Perl               |
-| Backend                     | Echo, Axum, REST APIs, JWT, OAuth2        |
-| Databases                   | PostgreSQL, Redis, KeyDB, CouchDB         |
-| Infrastructure & Networking | Linux, iptables, dnsmasq, Shorewall, Juju |
-| Virtualization              | VirtualBox, NAT, DNS, VPN                 |
-| Tools                       | Git, Bitbucket, VS Code, Shell            |
+30+ articles on eBPF, Linux networking, Rust, and backend systems.
 
+→ [nishujangra.dev/blogs](https://nishujangra.dev/blogs) · [Medium](https://medium.com/@nishujangra27)
 
-#### Connect
+---
 
-* Portfolio: [https://nishujangra.dev](https://nishujangra.dev)
-* LinkedIn: [https://linkedin.com/in/nishujangra27](https://linkedin.com/in/nishujangra27)
-* X (Twitter): [https://x.com/nishujangra27](https://x.com/nishujangra27)
-* Email: `ndjangra1027 [at] gmail.com`
+## Connect
+
+[Portfolio](https://nishujangra.dev) · [LinkedIn](https://linkedin.com/in/nishujangra27) · [GitHub](https://github.com/nishujangra) · [X](https://x.com/nishujangra27) · `ndjangra1027 [at] gmail.com`
