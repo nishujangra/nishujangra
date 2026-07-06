@@ -1,4 +1,4 @@
-# Nishant
+# Nishant Jangra
 
 **eBPF/Kernel Engineer · Systems & Infrastructure · Open Source**
 
@@ -13,10 +13,9 @@ attack, I want to understand exactly why and fix it at the right layer.
 | Project | Stack | Description |
 |---|---|---|
 | [Spooky](https://github.com/nishujangra/spooky) | Rust · HTTP/3 · QUIC | HTTP/3→HTTP/2 edge proxy · 21K req/s · multi-level overload protection |
+| [ElfOwl](https://github.com/cloudarmour-io/ElfOwl) | Go · eBPF · Linux | eBPF-based compliance and observability — network, file I/O, process, and capabilities |
 | [vex](https://github.com/nishujangra/vex) | Rust · HTTP/3 | HTTP/3 load testing tool with latency aggregation |
 | [BalancerX](https://github.com/nishujangra/balancerx) | Go · HTTP/TCP | Load balancer · round-robin/random · ~12K req/s across 3 backends |
-| [EagleOwl](https://bitbucket.org/tirveni/eagleowl/src/master/) | Go · PostgreSQL · Redis | Full-stack web app · Google OAuth · JWT · RBAC · async mail queue |
-| [FireShorewall](https://bitbucket.org/tirveni/fireshorewall/src/master/) | Perl · Mojolicious · CouchDB | Firewall management UI for Shorewall with live diagnostics |
 | [debforge](https://github.com/nishujangra/debforge) | Bash · dpkg-deb | CLI tool to forge .deb packages from binaries |
 
 ---
@@ -36,7 +35,7 @@ Familiar      Python · C++ · TypeScript · Perl · Bash
 
 ## Writing
 
-30+ articles on eBPF, Linux networking, Rust, and backend systems.
+50+ articles on eBPF, Linux networking, Rust, and backend systems.
 
 → [nishujangra.dev/blogs](https://nishujangra.dev/blogs) · [Medium](https://medium.com/@nishujangra27)
 
