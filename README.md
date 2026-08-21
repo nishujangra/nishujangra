@@ -1,4 +1,4 @@
-# Nishant
+# Nishant Jangra
 
 **eBPF/Kernel Engineer · Systems & Infrastructure · Open Source**
 
@@ -12,7 +12,7 @@ attack, I want to understand exactly why and fix it at the right layer.
 
 | Project | Stack | Description |
 |---|---|---|
-| [Spooky](https://github.com/nishujangra/spooky) | Rust · HTTP/3 · QUIC | HTTP/3→HTTP/2 edge proxy · 21K req/s · multi-level overload protection |
+| [Impulse](https://github.com/Supernova-Labs-Org/impulse) | Rust · HTTP/3 · QUIC | HTTP/3→HTTP/2 edge proxy · 21K req/s · multi-level overload protection, distributed quota, observability bundle |
 | [ElfOwl](https://github.com/cloudarmour-io/ElfOwl) | Go · eBPF · Linux | eBPF-based compliance and observability — network, file I/O, process, and capabilities |
 | [vex](https://github.com/nishujangra/vex) | Rust · HTTP/3 | HTTP/3 load testing tool with latency aggregation |
 | [BalancerX](https://github.com/nishujangra/balancerx) | Go · HTTP/TCP | Load balancer · round-robin/random · ~12K req/s across 3 backends |
